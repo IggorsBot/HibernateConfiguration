@@ -1,0 +1,1 @@
+"# Example Hibernate configuration" 
